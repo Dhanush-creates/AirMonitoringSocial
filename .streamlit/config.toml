@@ -1,0 +1,11 @@
+[client]
+toolbarMode = "minimal"     # hides Streamlit's Deploy button
+
+[browser]
+gatherUsageStats = false    # no usage data leaves this PC
+
+[server]
+maxUploadSize = 1000        # MB, for large post exports
+
+[theme]
+base = "light"

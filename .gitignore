@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local/generated files
+reports/
+data/*.jsonl
+data/*.json
+*.sqlite
+*.db
+.env
